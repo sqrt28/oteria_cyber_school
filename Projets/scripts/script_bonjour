@@ -1,0 +1,4 @@
+#/bin/sh
+echo bonjour ce script permmet de créer un fichier readme.txt
+echo bonjour >> readme.txt
+
